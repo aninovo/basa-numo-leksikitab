@@ -9,8 +9,7 @@
 /coverage
 
 # production
-# /build
-# not ignored, the hosting shall deploy from this folder
+/build
 
 # misc
 .DS_Store
